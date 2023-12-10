@@ -40,7 +40,7 @@ PT: Points
 
 * I will also use the Tableau to visualize it, and be use to another data that is called "Shooting Stats" from the same source. Firtsly, I will start it with rising of 3-Point attempts which changed to gameplay of basketball.
 
-
+<img width="468" alt="image" src="https://github.com/muratbakirr/Data-Science-Project/assets/153373667/432cde06-b631-491e-9d72-70b736e88765">
 
 
 
