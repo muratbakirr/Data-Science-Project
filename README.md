@@ -5,5 +5,5 @@ I've played basketball for long time and I am a big fan of NBA so that's why I c
 
 # Data preview
 
-
+img width="688" alt="Screenshot 2023-12-10 at 5 36 55 PM" src="https://github.com/muratbakirr/Data-Science-Project/assets/153373667/ed2bbd23-aa0a-4b60-9f31-9b6f2d21446d"
 
