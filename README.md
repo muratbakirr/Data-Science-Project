@@ -36,11 +36,13 @@ TOV: Turnovers
 
 PT: Points
 
-# Visualization of Shooting Preferences by Years
+# The Visualization of Shooting Preferences by Years
 
 * I will also use the Tableau to visualize it, and be use to another data that is called "Shooting Stats" from the same source. Firtsly, I will start it with rising of 3-Point attempts which changed to gameplay of basketball.
 
 <img width="468" alt="image" src="https://github.com/muratbakirr/Data-Science-Project/assets/153373667/432cde06-b631-491e-9d72-70b736e88765">
+
+- Yes, 3-Point attempts had increased from 17.1% to 39.2% in 20 years. So let's have a look at this increasing's relationship with teams' offensive rate (PTS for 100 poss).
 
 
 
