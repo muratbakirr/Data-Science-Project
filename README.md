@@ -1,4 +1,4 @@
-## Data-Science-NBA Analysis
+## Data Science-NBA Analysis
 ## Introduction
 ![nba images](https://github.com/muratbakirr/Data-Science-Project/assets/153373667/e98899ec-e0aa-4c6c-a5b4-b08a4abdda2c)
 
