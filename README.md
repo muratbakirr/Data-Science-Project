@@ -44,6 +44,10 @@ PT: Points
 
 - Yes, 3-Point attempts had increased from 17.1% to 39.2% in 20 years. So let's have a look at this increasing's relationship with teams' offensive rate (PTS for 100 poss).
 
+<img width="562" alt="Screenshot 2023-12-10 at 6 25 42 PM" src="https://github.com/muratbakirr/Data-Science-Project/assets/153373667/098c244a-493f-462c-b9da-5d5e39f484d1">
+
+There is a strong positive relationship between 3-Point attempts and offensive rate. What about 2-Point attempts, alright let's see it;
+
 
 
 
