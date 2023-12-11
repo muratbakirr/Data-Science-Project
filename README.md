@@ -52,6 +52,9 @@ There is a strong positive relationship between 3-Point attempts and offensive r
 
 There is a strong negative relationship between 2-Point attempts and offensive rate. So to make the shooting preferences by teams understandable for everyone, I've created the chart in Tableau. It suggests how it changed over the years.
 
+# Create a Regression Model
+
+Before start to create a model, I'd like to see correlation between variables. 
 
 
 
