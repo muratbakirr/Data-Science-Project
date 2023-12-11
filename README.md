@@ -99,5 +99,7 @@ I also created a user input into the console that after a user inputs 10 differe
 
 There are many values ​​that affect PTS. Teams increased their 3-point attempts to score more PTS. In this project I conducted, we observed how the preferred shooting changed over the years, especially how mid-range shooting decreased significantly while 3-point shooting increased. We also created a regression model and examined whether the teams achieved the PTS required for the playoffs.
 
+notebook: https://colab.research.google.com/drive/1RTPjEGJJt9osDU8SGLiYdYmGuF61W-qf?usp=sharing
+
 
 
