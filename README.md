@@ -48,6 +48,10 @@ PT: Points
 
 There is a strong positive relationship between 3-Point attempts and offensive rate. What about 2-Point attempts, alright let's see it;
 
+<img width="562" alt="Screenshot 2023-12-10 at 7 36 39 PM" src="https://github.com/muratbakirr/Data-Science-Project/assets/153373667/0538ffcc-7ca7-490b-9750-bbc8994516d7">
+
+There is a strong negative relationship between 2-Point attempts and offensive rate. So to make the shooting preferences by teams understandable for everyone, I've created the chart in Tableau. It suggests how it changed over the years.
+
 
 
 
